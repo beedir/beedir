@@ -9,11 +9,11 @@
 <p align="left">
 <h3 align="left">Frontend</h3>
 <p align="left"> 
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="40" height="40"/></a> 
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="40" height="40"/></a>
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="40" height="40"/></a>
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="40" height="40"/></a>
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="40" height="40"/></a>
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="40" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="40" height="40"/>
 </p>
 
 <h3 align="left">Backend</h3>
@@ -24,7 +24,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="40" height="40"/></a>
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="40" height="40"/></a>
 <img src="ttps://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40" height="40"/></a>
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="45" height="40"/></a>
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="40" height="40"/></a>
 <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" width="40" height="40"/></a>
 </p>
  
