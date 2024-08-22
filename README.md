@@ -9,7 +9,7 @@
 <p align="left">
 <h3 align="left">Frontend</h3>
 <p align="left"> 
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="40" height="40"/></a>
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="40" height="40"/></a> 
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
