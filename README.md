@@ -27,6 +27,14 @@
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" width="40" height="40"/>
 </p>
+
+<h3 align="left">DevOps</h3>
+<p align="left"> 
+<img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" width="40" height="40"/> 
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="40" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="40" height="40"/> 
+</p>
  
 
 
