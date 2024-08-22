@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on **Minitalk** 
 - 🌱 I’m currently learning **React**
 
-<h3 align="center">My Skill Set </h3>  
-<h5 align="left">Frontend</h5>
+<h3 align="lest">My Skill Set </h3>  
+<h4 align="left">Frontend</h4>
 <p align="left"> 
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="40" height="40"/> 
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="40" height="40"/>
