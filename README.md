@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm val</h1>
 <h3 align="center">Currently a student at School 42, languages C </h3>
-<h4 align="center">I'm a dedicated and motivated student at École 42, where I primarily focus on the C language but also explore Python, JavaScript, and more. In addition to my academic pursuits, I'm passionate about taking on diverse projects outside of my coursework. I thrive on challenges and constantly seek innovative solutions, driven by a perfectionist mindset. My optimism fuels my commitment to excellence, and I'm excited to share my journey and contributions with the GitHub community.</h4>
+
+<h4 align="center">I'm a dedicated and motivated student at École 42, where I primarily focus on the C language but also explore Python, JavaScript, and more. In addition to my academic pursuits, I'm passionate about taking on diverse projects outside of my coursework. I thrive on challenges and constantly seek innovative solutions, driven by a perfectionist mindset. My optimism fuels my commitment to excellence, and I'm excited to share my journey and contributions with the GitHub community.
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beedir&label=Profile%20views&color=0e75b6&style=flat" alt="beedir" /> </p>
 
