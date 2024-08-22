@@ -36,11 +36,8 @@
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="40" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="40" height="40"/> 
 </p>
- 
 
-
-
-
+<h3 align="lest">Github Stats </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beedir&show_icons=true&locale=en&layout=compact" alt="beedir" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beedir&show_icons=true&locale=en" alt="beedir" /></p>
    
