@@ -18,14 +18,14 @@
 
 <h3 align="left">Backend</h3>
 <p align="left"> 
-<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" width="40" height="40"/></a> 
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="40" height="40"/></a>
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="40" height="40"/></a>
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="40" height="40"/></a>
-<img src="ttps://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40" height="40"/></a>
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" width="40" height="40"/></a>
+<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" width="40" height="40"/> 
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="40" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="40" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="40" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="40" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" width="40" height="40"/>
 </p>
  
 
